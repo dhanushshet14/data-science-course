@@ -1,0 +1,15 @@
+this is another way used for linux command system
+
+check the python version first if you don't know which version you are using --> python--version
+
+command:
+## pip install virtualenv
+
+## virtualenv -p python3 virtual_env 
+
+this creates the virtual env. Now to activate it use the below command
+
+##  virtual_env\Scripts\activate
+
+this activates the virtual env. to deactivate it, just type deactivate in the terminal
+

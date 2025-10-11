@@ -1,0 +1,9 @@
+For this way you have to istall Anaconda. Make sure to install all the packages
+
+the command to create the venv file:
+
+## conda create -p venv1 python==3.12 -y
+
+if conda not recognized issue ariases please use the below link to solve the issue
+
+// https://stackoverflow.com/questions/44515769/conda-is-not-recognized-as-internal-or-external-command

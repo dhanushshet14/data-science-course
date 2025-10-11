@@ -1,0 +1,9 @@
+## python -m venv <env-name: eg. myenv>
+the python environment will be created directly
+
+to activate this:
+your-env-name\Scripts\activate
+
+this activates your environment
+
+ type "deactivate" to deactivate the environment
